@@ -13,7 +13,7 @@ twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
-theme: jekyll-theme-minimal  # Keep this as default if you have a fallback theme.
+# theme: jekyll-theme-minimal  # Keep this as default if you have a fallback theme.
 remote_theme: pages-themes/midnight@v0.2.0  # Use remote theme (Midnight theme from GitHub Pages)
 plugins:
   - jekyll-remote-theme  # Add the jekyll-remote-theme plugin for remote themes
